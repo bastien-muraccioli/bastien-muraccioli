@@ -13,10 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bastien-muraccioli&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bastien-muraccioli&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastien-muraccioli" />
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bastien-muraccioli)](https://github.com/ryo-ma/github-profile-trophy)
