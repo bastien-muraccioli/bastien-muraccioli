@@ -32,6 +32,4 @@ My research focuses on making robots safer, more collaborative, and more intuiti
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bastien-muraccioli&count_private=true&show_icons=true&theme=tokyonight" />
-</p>
+[![Bastien's GitHub stats](https://github-stats-extended.vercel.app/api?username=bastien-muraccioli)](https://github.com/stats-organization/github-stats-extended)
